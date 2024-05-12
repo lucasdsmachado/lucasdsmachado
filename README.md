@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Brian Lucas:
+# Hi 👋, I'm Brian Lucas:
 
 🎓 Studying Computer Science at UFBA.<br>
 💡 A tech enthusiast who loves to learn about new things.<br>
